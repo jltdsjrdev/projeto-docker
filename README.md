@@ -43,10 +43,23 @@ Obrigado a todos que já contribuíram para este projeto!
     <td align="center"><a href="https://github.com/jltdsjrdev"><img src="https://avatars.githubusercontent.com/u/113628571?v=4" width="100px;" alt="Contribuidor 1"/><br /><sub><b>Jorge Junior</b></sub></a></td>
     
   </tr>
+
 </table>
 
 
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](./LICENSE).
+
+
+##Imagens do projeto
+<br><br>
+![imagem-back](https://github.com/user-attachments/assets/b29e78bc-3fe6-4335-937f-2148a33411f4)
+
+
+<br><br>
+![imagem-frontend](https://github.com/user-attachments/assets/2c7ce6b7-d048-48b4-906e-1c42612aee56)  
+
+<br><br>
+![imagem-DB](https://github.com/user-attachments/assets/4a1a51a9-cff9-40aa-becd-1ad9aef04da0)
 

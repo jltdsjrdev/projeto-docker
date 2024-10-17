@@ -1,4 +1,4 @@
-# Projeto Docker Compose Santander Conders 2024 | DevOps
+# Projeto Docker Compose feito no curso Santander Conders 2024 | DevOps | A.d.a Tech
 
 ## Descrição
 Projeto desenvolvido durante o curso usando as Tecnologias:
